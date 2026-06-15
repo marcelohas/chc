@@ -1,0 +1,2424 @@
+{
+  "conselho": {
+    "6ANO": [
+      {
+        "id": 1,
+        "turma": "6ºA",
+        "chc": 6.8,
+        "mat": 6,
+        "lp": 6.1,
+        "red": 5.7
+      },
+      {
+        "id": 2,
+        "turma": "6ºA",
+        "chc": 6,
+        "mat": 4.8,
+        "lp": 4.8,
+        "red": 5.8
+      },
+      {
+        "id": 3,
+        "turma": "6ºA",
+        "chc": 8,
+        "mat": 9.5,
+        "lp": 8.5,
+        "red": 8.8
+      },
+      {
+        "id": 4,
+        "turma": "6ºA",
+        "chc": 7.3,
+        "mat": 9.1,
+        "lp": 7.7,
+        "red": 7.7
+      },
+      {
+        "id": 5,
+        "turma": "6ºA",
+        "chc": 8,
+        "mat": 8.6,
+        "lp": 6.8,
+        "red": 7
+      },
+      {
+        "id": 6,
+        "turma": "6ºA",
+        "chc": 6.7,
+        "mat": 7.7,
+        "lp": 7.2,
+        "red": 8.7
+      },
+      {
+        "id": 7,
+        "turma": "6ºA",
+        "chc": 6.1,
+        "mat": 7.2,
+        "lp": 6.5,
+        "red": 7.8
+      },
+      {
+        "id": 8,
+        "turma": "6ºA",
+        "chc": 6.7,
+        "mat": 6,
+        "lp": 5.9,
+        "red": 6.8
+      },
+      {
+        "id": 9,
+        "turma": "6ºA",
+        "chc": 6.7,
+        "mat": 6.3,
+        "lp": 4.5,
+        "red": 6
+      },
+      {
+        "id": 10,
+        "turma": "6ºA",
+        "chc": 7.5,
+        "mat": 7.1,
+        "lp": 5.3,
+        "red": 6
+      },
+      {
+        "id": 11,
+        "turma": "6ºA",
+        "chc": 7.2,
+        "mat": 7.9,
+        "lp": 6.2,
+        "red": 6.4
+      },
+      {
+        "id": 12,
+        "turma": "6ºA",
+        "chc": 6,
+        "mat": 7.2,
+        "lp": 7.9,
+        "red": 7.3
+      },
+      {
+        "id": 13,
+        "turma": "6ºA",
+        "chc": 6.2,
+        "mat": 6,
+        "lp": 5.8,
+        "red": 6.3
+      },
+      {
+        "id": 14,
+        "turma": "6ºA",
+        "chc": 7.5,
+        "mat": 8.6,
+        "lp": 8.3,
+        "red": 8.2
+      },
+      {
+        "id": 15,
+        "turma": "6ºA",
+        "chc": 8.2,
+        "mat": 9.2,
+        "lp": 7.8,
+        "red": 7.4
+      },
+      {
+        "id": 16,
+        "turma": "6ºA",
+        "chc": 6,
+        "mat": 8.9,
+        "lp": 6.3,
+        "red": 6.6
+      },
+      {
+        "id": 17,
+        "turma": "6ºA",
+        "chc": 7.5,
+        "mat": 8.6,
+        "lp": 8.3,
+        "red": 8.9
+      },
+      {
+        "id": 18,
+        "turma": "6ºA",
+        "chc": 8.2,
+        "mat": 8.7,
+        "lp": 7.5,
+        "red": 8.3
+      },
+      {
+        "id": 19,
+        "turma": "6ºA",
+        "chc": 6.7,
+        "mat": 7.7,
+        "lp": 7,
+        "red": 7.3
+      },
+      {
+        "id": 20,
+        "turma": "6ºA",
+        "chc": 7.2,
+        "mat": 8.2,
+        "lp": 6.9,
+        "red": 7.4
+      },
+      {
+        "id": 21,
+        "turma": "6ºA",
+        "chc": 6.6,
+        "mat": 7.5,
+        "lp": 6.3,
+        "red": 6.8
+      },
+      {
+        "id": 22,
+        "turma": "6ºA",
+        "chc": 6.3,
+        "mat": 8.6,
+        "lp": 6.4,
+        "red": 6.8
+      },
+      {
+        "id": 23,
+        "turma": "6ºA",
+        "chc": 6.7,
+        "mat": 7.1,
+        "lp": 5.7,
+        "red": 5.8
+      },
+      {
+        "id": 24,
+        "turma": "6ºA",
+        "chc": 6,
+        "mat": 7.4,
+        "lp": 6.5,
+        "red": 6.7
+      },
+      {
+        "id": 25,
+        "turma": "6ºA",
+        "chc": 6.5,
+        "mat": 9.3,
+        "lp": 7.3,
+        "red": 8.6
+      },
+      {
+        "id": 26,
+        "turma": "6ºA",
+        "chc": 8,
+        "mat": 7.4,
+        "lp": 7,
+        "red": 7.9
+      },
+      {
+        "id": 27,
+        "turma": "6ºA",
+        "chc": 6,
+        "mat": 7,
+        "lp": 5.9,
+        "red": 6.1
+      },
+      {
+        "id": 1,
+        "turma": "6ºB",
+        "chc": 7.7,
+        "mat": 8.6,
+        "lp": 7.1,
+        "red": 7.5
+      },
+      {
+        "id": 2,
+        "turma": "6ºB",
+        "chc": 7.7,
+        "mat": 7.1,
+        "lp": 7.7,
+        "red": 6.6
+      },
+      {
+        "id": 3,
+        "turma": "6ºB",
+        "chc": 6.2,
+        "mat": 7.4,
+        "lp": 7.4,
+        "red": 7.3
+      },
+      {
+        "id": 4,
+        "turma": "6ºB",
+        "chc": 6,
+        "mat": 7.7,
+        "lp": 7.3,
+        "red": 7.3
+      },
+      {
+        "id": 5,
+        "turma": "6ºB",
+        "chc": 8.2,
+        "mat": 7,
+        "lp": 7.1,
+        "red": 7
+      },
+      {
+        "id": 6,
+        "turma": "6ºB",
+        "chc": 6,
+        "mat": 7.4,
+        "lp": 7,
+        "red": 6.6
+      },
+      {
+        "id": 7,
+        "turma": "6ºB",
+        "chc": 6,
+        "mat": 8.3,
+        "lp": 6.6,
+        "red": 7.1
+      },
+      {
+        "id": 8,
+        "turma": "6ºB",
+        "chc": 6.2,
+        "mat": 8.8,
+        "lp": 8.5,
+        "red": 7.4
+      },
+      {
+        "id": 9,
+        "turma": "6ºB",
+        "chc": 7,
+        "mat": 8.6,
+        "lp": 6.3,
+        "red": 6.1
+      },
+      {
+        "id": 10,
+        "turma": "6ºB",
+        "chc": 8.2,
+        "mat": 7.8,
+        "lp": 7.2,
+        "red": 7.9
+      },
+      {
+        "id": 11,
+        "turma": "6ºB",
+        "chc": 6,
+        "mat": 7.3,
+        "lp": 6.4,
+        "red": 5.8
+      },
+      {
+        "id": 12,
+        "turma": "6ºB",
+        "chc": 7.7,
+        "mat": 6.9,
+        "lp": 6.3,
+        "red": 6.7
+      },
+      {
+        "id": 13,
+        "turma": "6ºB",
+        "chc": 8,
+        "mat": 8.7,
+        "lp": 7,
+        "red": 6.6
+      },
+      {
+        "id": 14,
+        "turma": "6ºB",
+        "chc": 6,
+        "mat": 8,
+        "lp": 7.4,
+        "red": 7.2
+      },
+      {
+        "id": 15,
+        "turma": "6ºB",
+        "chc": 7.8,
+        "mat": 8.7,
+        "lp": 7.5,
+        "red": 7.2
+      },
+      {
+        "id": 16,
+        "turma": "6ºB",
+        "chc": 7.2,
+        "mat": 8.7,
+        "lp": 7.7,
+        "red": 8
+      },
+      {
+        "id": 17,
+        "turma": "6ºB",
+        "chc": 7.5,
+        "mat": 8,
+        "lp": 7.4,
+        "red": 7.7
+      },
+      {
+        "id": 18,
+        "turma": "6ºB",
+        "chc": 7.5,
+        "mat": 9.2,
+        "lp": 8,
+        "red": 9
+      },
+      {
+        "id": 19,
+        "turma": "6ºB",
+        "chc": 7,
+        "mat": 8.7,
+        "lp": 7.7,
+        "red": 8.3
+      },
+      {
+        "id": 20,
+        "turma": "6ºB",
+        "chc": 6.2,
+        "mat": 8.6,
+        "lp": 8.2,
+        "red": 7.9
+      },
+      {
+        "id": 21,
+        "turma": "6ºB",
+        "chc": 8.2,
+        "mat": 9.5,
+        "lp": 8.6,
+        "red": 9
+      },
+      {
+        "id": 22,
+        "turma": "6ºB",
+        "chc": 7.8,
+        "mat": 7.6,
+        "lp": 6.7,
+        "red": 7.7
+      },
+      {
+        "id": 23,
+        "turma": "6ºB",
+        "chc": 8,
+        "mat": 9.1,
+        "lp": 5.9,
+        "red": 5.8
+      },
+      {
+        "id": 24,
+        "turma": "6ºB",
+        "chc": 8.7,
+        "mat": 7.9,
+        "lp": 7.6,
+        "red": 7.8
+      },
+      {
+        "id": 25,
+        "turma": "6ºB",
+        "chc": 8,
+        "mat": 9.4,
+        "lp": 5.6,
+        "red": 6.3
+      },
+      {
+        "id": 26,
+        "turma": "6ºB",
+        "chc": 9,
+        "mat": 9.2,
+        "lp": 7.6,
+        "red": 7.3
+      },
+      {
+        "id": 27,
+        "turma": "6ºB",
+        "chc": 6.7,
+        "mat": 7.7,
+        "lp": 7.9,
+        "red": 7.8
+      },
+      {
+        "id": 28,
+        "turma": "6ºB",
+        "chc": 6.7,
+        "mat": 7.6,
+        "lp": 5.7,
+        "red": 4.7
+      },
+      {
+        "id": 1,
+        "turma": "6ºC",
+        "chc": 6.7,
+        "mat": 5.3,
+        "lp": 5,
+        "red": 5.9
+      },
+      {
+        "id": 2,
+        "turma": "6ºC",
+        "chc": 7.1,
+        "mat": 6.9,
+        "lp": 6.7,
+        "red": 6.7
+      },
+      {
+        "id": 3,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 5.2,
+        "lp": 4.6,
+        "red": 4.9
+      },
+      {
+        "id": 4,
+        "turma": "6ºC",
+        "chc": 8.2,
+        "mat": 9.5,
+        "lp": 8.9,
+        "red": 9.1
+      },
+      {
+        "id": 5,
+        "turma": "6ºC",
+        "chc": 8.6,
+        "mat": 6,
+        "lp": 6,
+        "red": 6.4
+      },
+      {
+        "id": 6,
+        "turma": "6ºC",
+        "chc": 6.2,
+        "mat": 7.9,
+        "lp": 8,
+        "red": 7.6
+      },
+      {
+        "id": 7,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 7.5,
+        "lp": 6.1,
+        "red": 6.1
+      },
+      {
+        "id": 8,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 7.1,
+        "lp": 6,
+        "red": 6.9
+      },
+      {
+        "id": 9,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 8.9,
+        "lp": 7.2,
+        "red": 8
+      },
+      {
+        "id": 10,
+        "turma": "6ºC",
+        "chc": 6.5,
+        "mat": 9,
+        "lp": 7.9,
+        "red": 8.3
+      },
+      {
+        "id": 11,
+        "turma": "6ºC",
+        "chc": 8.8,
+        "mat": 6.5,
+        "lp": 6,
+        "red": 6.7
+      },
+      {
+        "id": 12,
+        "turma": "6ºC",
+        "chc": 6.2,
+        "mat": 7.2,
+        "lp": 4.8,
+        "red": 4.7
+      },
+      {
+        "id": 13,
+        "turma": "6ºC",
+        "chc": 8.8,
+        "mat": 8.1,
+        "lp": 8.2,
+        "red": 7.7
+      },
+      {
+        "id": 14,
+        "turma": "6ºC",
+        "chc": 6.2,
+        "mat": 9.3,
+        "lp": 6.8,
+        "red": 7
+      },
+      {
+        "id": 15,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 7.1,
+        "lp": 5.5,
+        "red": 6.6
+      },
+      {
+        "id": 16,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 8.2,
+        "lp": 7,
+        "red": 7.8
+      },
+      {
+        "id": 17,
+        "turma": "6ºC",
+        "chc": 6.5,
+        "mat": 7,
+        "lp": 5.8,
+        "red": 6
+      },
+      {
+        "id": 18,
+        "turma": "6ºC",
+        "chc": 7.5,
+        "mat": 7.8,
+        "lp": 5.7,
+        "red": 6.1
+      },
+      {
+        "id": 19,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 8,
+        "lp": 6.1,
+        "red": 6.9
+      },
+      {
+        "id": 20,
+        "turma": "6ºC",
+        "chc": 6.7,
+        "mat": 8.1,
+        "lp": 6.5,
+        "red": 7.4
+      },
+      {
+        "id": 21,
+        "turma": "6ºC",
+        "chc": 6.5,
+        "mat": 7.1,
+        "lp": 6.1,
+        "red": 6
+      },
+      {
+        "id": 22,
+        "turma": "6ºC",
+        "chc": 7.7,
+        "mat": 9.5,
+        "lp": 8.1,
+        "red": 7.9
+      },
+      {
+        "id": 23,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 8.4,
+        "lp": 6.7,
+        "red": 6.7
+      },
+      {
+        "id": 24,
+        "turma": "6ºC",
+        "chc": 6.5,
+        "mat": 6.6,
+        "lp": 5.5,
+        "red": 5.8
+      },
+      {
+        "id": 25,
+        "turma": "6ºC",
+        "chc": 8.2,
+        "mat": 8.5,
+        "lp": 7.5,
+        "red": 6.6
+      },
+      {
+        "id": 26,
+        "turma": "6ºC",
+        "chc": 6,
+        "mat": 7.8,
+        "lp": 5.7,
+        "red": 6.6
+      },
+      {
+        "id": 27,
+        "turma": "6ºC",
+        "chc": 7.2,
+        "mat": 8.3,
+        "lp": 8,
+        "red": 8
+      },
+      {
+        "id": 28,
+        "turma": "6ºC",
+        "chc": 7.8,
+        "mat": 8,
+        "lp": 8,
+        "red": 7.8
+      }
+    ],
+    "7ANO": [
+      {
+        "id": 1,
+        "turma": "7ºA",
+        "chc": 7.7,
+        "mat": 6.7,
+        "lp": 7.4,
+        "red": 7.4
+      },
+      {
+        "id": 2,
+        "turma": "7ºA",
+        "chc": 6.1,
+        "mat": 8.2,
+        "lp": 7.6,
+        "red": 7.2
+      },
+      {
+        "id": 3,
+        "turma": "7ºA",
+        "chc": 7,
+        "mat": 6.1,
+        "lp": 6.1,
+        "red": 6.8
+      },
+      {
+        "id": 4,
+        "turma": "7ºA",
+        "chc": 6.7,
+        "mat": 6.7,
+        "lp": 7.1,
+        "red": 6.9
+      },
+      {
+        "id": 5,
+        "turma": "7ºA",
+        "chc": 6,
+        "mat": 6.4,
+        "lp": 6.9,
+        "red": 6.4
+      },
+      {
+        "id": 6,
+        "turma": "7ºA",
+        "chc": 7.2,
+        "mat": 10,
+        "lp": 10,
+        "red": 10
+      },
+      {
+        "id": 7,
+        "turma": "7ºA",
+        "chc": 7,
+        "mat": 9.2,
+        "lp": 7.7,
+        "red": 7.2
+      },
+      {
+        "id": 8,
+        "turma": "7ºA",
+        "chc": 6,
+        "mat": 6.7,
+        "lp": 7.7,
+        "red": 9
+      },
+      {
+        "id": 9,
+        "turma": "7ºA",
+        "chc": 7.7,
+        "mat": 8.3,
+        "lp": 7.4,
+        "red": 7.8
+      },
+      {
+        "id": 10,
+        "turma": "7ºA",
+        "chc": 7.5,
+        "mat": 8.1,
+        "lp": 6.8,
+        "red": 6.8
+      },
+      {
+        "id": 11,
+        "turma": "7ºA",
+        "chc": 7.2,
+        "mat": 9.1,
+        "lp": 9.2,
+        "red": 8.8
+      },
+      {
+        "id": 12,
+        "turma": "7ºA",
+        "chc": 7,
+        "mat": 7,
+        "lp": 6.6,
+        "red": 6.4
+      },
+      {
+        "id": 13,
+        "turma": "7ºA",
+        "chc": 7.7,
+        "mat": 9.3,
+        "lp": 8.4,
+        "red": 8.9
+      },
+      {
+        "id": 14,
+        "turma": "7ºA",
+        "chc": 6.5,
+        "mat": 8,
+        "lp": 7.2,
+        "red": 6.3
+      },
+      {
+        "id": 15,
+        "turma": "7ºA",
+        "chc": 8.3,
+        "mat": 7.2,
+        "lp": 6.7,
+        "red": 6.2
+      },
+      {
+        "id": 16,
+        "turma": "7ºA",
+        "chc": 6.5,
+        "mat": 6,
+        "lp": 6.6,
+        "red": 6.3
+      },
+      {
+        "id": 17,
+        "turma": "7ºA",
+        "chc": 6,
+        "mat": 5.8,
+        "lp": 6.9,
+        "red": 6.9
+      },
+      {
+        "id": 18,
+        "turma": "7ºA",
+        "chc": 7.7,
+        "mat": 6.4,
+        "lp": 7.1,
+        "red": 6
+      },
+      {
+        "id": 19,
+        "turma": "7ºA",
+        "chc": 6.5,
+        "mat": 7.8,
+        "lp": 7.8,
+        "red": 6.8
+      },
+      {
+        "id": 20,
+        "turma": "7ºA",
+        "chc": 7.7,
+        "mat": 8.7,
+        "lp": 6.4,
+        "red": 6.3
+      },
+      {
+        "id": 21,
+        "turma": "7ºA",
+        "chc": 6.2,
+        "mat": 8.8,
+        "lp": 9,
+        "red": 8.8
+      },
+      {
+        "id": 22,
+        "turma": "7ºA",
+        "chc": 7.5,
+        "mat": 7.9,
+        "lp": 7.8,
+        "red": 7
+      },
+      {
+        "id": 23,
+        "turma": "7ºA",
+        "chc": 7.5,
+        "mat": 8.7,
+        "lp": 8.6,
+        "red": 7.9
+      },
+      {
+        "id": 24,
+        "turma": "7ºA",
+        "chc": 7,
+        "mat": 8.5,
+        "lp": 7.1,
+        "red": 7.2
+      },
+      {
+        "id": 25,
+        "turma": "7ºA",
+        "chc": 7,
+        "mat": 7.6,
+        "lp": 7.9,
+        "red": 7.2
+      },
+      {
+        "id": 26,
+        "turma": "7ºA",
+        "chc": 6,
+        "mat": 5.8,
+        "lp": 6.6,
+        "red": 6.4
+      },
+      {
+        "id": 27,
+        "turma": "7ºA",
+        "chc": 6.7,
+        "mat": 9.2,
+        "lp": 8.2,
+        "red": 8.2
+      },
+      {
+        "id": 28,
+        "turma": "7ºA",
+        "chc": 6.2,
+        "mat": 8.8,
+        "lp": 7.5,
+        "red": 7.6
+      },
+      {
+        "id": 29,
+        "turma": "7ºA",
+        "chc": 8.5,
+        "mat": 9.3,
+        "lp": 8.7,
+        "red": 8
+      },
+      {
+        "id": 30,
+        "turma": "7ºA",
+        "chc": 7.2,
+        "mat": 8,
+        "lp": 7.9,
+        "red": 7.2
+      },
+      {
+        "id": 31,
+        "turma": "7ºA",
+        "chc": 8.2,
+        "mat": 9.4,
+        "lp": 9.2,
+        "red": 8.7
+      },
+      {
+        "id": 32,
+        "turma": "7ºA",
+        "chc": 8.2,
+        "mat": 9.8,
+        "lp": 8.8,
+        "red": 9.1
+      },
+      {
+        "id": 1,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 7.4,
+        "lp": 7.4,
+        "red": 7.2
+      },
+      {
+        "id": 2,
+        "turma": "7ºB",
+        "chc": 8.2,
+        "mat": 9.2,
+        "lp": 8.2,
+        "red": 7.8
+      },
+      {
+        "id": 3,
+        "turma": "7ºB",
+        "chc": 6.5,
+        "mat": 7.3,
+        "lp": 8.3,
+        "red": 7
+      },
+      {
+        "id": 4,
+        "turma": "7ºB",
+        "chc": 7,
+        "mat": 7,
+        "lp": 7.1,
+        "red": 6.7
+      },
+      {
+        "id": 5,
+        "turma": "7ºB",
+        "chc": 7,
+        "mat": 8.3,
+        "lp": 7.4,
+        "red": 7.3
+      },
+      {
+        "id": 6,
+        "turma": "7ºB",
+        "chc": 7,
+        "mat": 8.9,
+        "lp": 7.1,
+        "red": 6.8
+      },
+      {
+        "id": 7,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 7.8,
+        "lp": 6.8,
+        "red": 6.7
+      },
+      {
+        "id": 8,
+        "turma": "7ºB",
+        "chc": 7,
+        "mat": 7,
+        "lp": 7.2,
+        "red": 6.2
+      },
+      {
+        "id": 9,
+        "turma": "7ºB",
+        "chc": 8,
+        "mat": 9.4,
+        "lp": 8.3,
+        "red": 8.1
+      },
+      {
+        "id": 10,
+        "turma": "7ºB",
+        "chc": 8,
+        "mat": 9,
+        "lp": 8.5,
+        "red": 7.6
+      },
+      {
+        "id": 11,
+        "turma": "7ºB",
+        "chc": 8.6,
+        "mat": 9.2,
+        "lp": 8.9,
+        "red": 7.7
+      },
+      {
+        "id": 12,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 7.5,
+        "lp": 6.8,
+        "red": 6.5
+      },
+      {
+        "id": 13,
+        "turma": "7ºB",
+        "chc": 8.2,
+        "mat": 9.1,
+        "lp": 8.9,
+        "red": 8.9
+      },
+      {
+        "id": 14,
+        "turma": "7ºB",
+        "chc": 6.7,
+        "mat": 6.8,
+        "lp": 7.1,
+        "red": 6.7
+      },
+      {
+        "id": 15,
+        "turma": "7ºB",
+        "chc": 6.7,
+        "mat": 9.1,
+        "lp": 7.6,
+        "red": 6.3
+      },
+      {
+        "id": 16,
+        "turma": "7ºB",
+        "chc": 7,
+        "mat": 8.1,
+        "lp": 7.6,
+        "red": 7.4
+      },
+      {
+        "id": 17,
+        "turma": "7ºB",
+        "chc": 6.7,
+        "mat": 5.7,
+        "lp": 9.2,
+        "red": 8
+      },
+      {
+        "id": 18,
+        "turma": "7ºB",
+        "chc": 6.7,
+        "mat": 6.6,
+        "lp": 6.3,
+        "red": 6.3
+      },
+      {
+        "id": 19,
+        "turma": "7ºB",
+        "chc": 7,
+        "mat": 7.3,
+        "lp": 7.4,
+        "red": 7.3
+      },
+      {
+        "id": 20,
+        "turma": "7ºB",
+        "chc": 6,
+        "mat": 6.5,
+        "lp": 7,
+        "red": 6.8
+      },
+      {
+        "id": 21,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 7.1,
+        "lp": 6.5,
+        "red": 5.5
+      },
+      {
+        "id": 22,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 8.6,
+        "lp": 7.9,
+        "red": 7.3
+      },
+      {
+        "id": 23,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 7.3,
+        "lp": 5.5,
+        "red": 6.8
+      },
+      {
+        "id": 24,
+        "turma": "7ºB",
+        "chc": 6,
+        "mat": 7.5,
+        "lp": 7.3,
+        "red": 6.6
+      },
+      {
+        "id": 25,
+        "turma": "7ºB",
+        "chc": 9,
+        "mat": 7.4,
+        "lp": 7.4,
+        "red": 7.1
+      },
+      {
+        "id": 26,
+        "turma": "7ºB",
+        "chc": 6.2,
+        "mat": 4.2,
+        "lp": 4.5,
+        "red": 6.3
+      },
+      {
+        "id": 27,
+        "turma": "7ºB",
+        "chc": 7.5,
+        "mat": 6.7,
+        "lp": 4.7,
+        "red": 5.4
+      },
+      {
+        "id": 28,
+        "turma": "7ºB",
+        "chc": 7.1,
+        "mat": 8.9,
+        "lp": 7.4,
+        "red": 7
+      },
+      {
+        "id": 29,
+        "turma": "7ºB",
+        "chc": 8.3,
+        "mat": 7.2,
+        "lp": 6.9,
+        "red": 6.9
+      },
+      {
+        "id": 30,
+        "turma": "7ºB",
+        "chc": 6,
+        "mat": 7.7,
+        "lp": 7.8,
+        "red": 7.5
+      }
+    ],
+    "8ANO": [
+      {
+        "id": 1,
+        "turma": "8ºA",
+        "chc": 6,
+        "mat": 5.9,
+        "lp": 4.4,
+        "red": 7
+      },
+      {
+        "id": 2,
+        "turma": "8ºA",
+        "chc": 7.6,
+        "mat": 4.8,
+        "lp": 5.9,
+        "red": 7.4
+      },
+      {
+        "id": 3,
+        "turma": "8ºA",
+        "chc": 7.3,
+        "mat": 9.3,
+        "lp": 9.1,
+        "red": 8.8
+      },
+      {
+        "id": 4,
+        "turma": "8ºA",
+        "chc": 8,
+        "mat": 5.7,
+        "lp": 6.4,
+        "red": 6.4
+      },
+      {
+        "id": 5,
+        "turma": "8ºA",
+        "chc": 6.7,
+        "mat": 8.4,
+        "lp": 7.4,
+        "red": 6.7
+      },
+      {
+        "id": 6,
+        "turma": "8ºA",
+        "chc": 7.7,
+        "mat": 8.8,
+        "lp": 8.5,
+        "red": 7.9
+      },
+      {
+        "id": 7,
+        "turma": "8ºA",
+        "chc": 6,
+        "mat": 5.2,
+        "lp": 6.2,
+        "red": 6.5
+      },
+      {
+        "id": 8,
+        "turma": "8ºA",
+        "chc": 6,
+        "mat": 7.8,
+        "lp": 6.8,
+        "red": 6.7
+      },
+      {
+        "id": 9,
+        "turma": "8ºA",
+        "chc": 7.3,
+        "mat": 7,
+        "lp": 7,
+        "red": 6.5
+      },
+      {
+        "id": 10,
+        "turma": "8ºA",
+        "chc": 6,
+        "mat": 5.4,
+        "lp": 6.6,
+        "red": 6.2
+      },
+      {
+        "id": 11,
+        "turma": "8ºA",
+        "chc": 7.7,
+        "mat": 5.7,
+        "lp": 6.4,
+        "red": 7.4
+      },
+      {
+        "id": 12,
+        "turma": "8ºA",
+        "chc": 6.5,
+        "mat": 5.2,
+        "lp": 6.7,
+        "red": 6.7
+      },
+      {
+        "id": 13,
+        "turma": "8ºA",
+        "chc": 7.2,
+        "mat": 6.5,
+        "lp": 6.3,
+        "red": 6.9
+      },
+      {
+        "id": 14,
+        "turma": "8ºA",
+        "chc": 8.3,
+        "mat": 6.9,
+        "lp": 5.6,
+        "red": 6.1
+      },
+      {
+        "id": 15,
+        "turma": "8ºA",
+        "chc": 8.5,
+        "mat": 8.9,
+        "lp": 8.3,
+        "red": 9.3
+      },
+      {
+        "id": 16,
+        "turma": "8ºA",
+        "chc": 8,
+        "mat": 5.9,
+        "lp": 6.9,
+        "red": 8
+      },
+      {
+        "id": 17,
+        "turma": "8ºA",
+        "chc": 7,
+        "mat": 7.9,
+        "lp": 7.7,
+        "red": 8.6
+      },
+      {
+        "id": 18,
+        "turma": "8ºA",
+        "chc": 8,
+        "mat": 7.9,
+        "lp": 7.3,
+        "red": 7.4
+      },
+      {
+        "id": 19,
+        "turma": "8ºA",
+        "chc": 7.5,
+        "mat": 8.7,
+        "lp": 7.1,
+        "red": 8.8
+      },
+      {
+        "id": 20,
+        "turma": "8ºA",
+        "chc": 6.5,
+        "mat": 7.4,
+        "lp": 7,
+        "red": 7.2
+      },
+      {
+        "id": 21,
+        "turma": "8ºA",
+        "chc": 6.2,
+        "mat": 7.5,
+        "lp": 7.1,
+        "red": 8.1
+      },
+      {
+        "id": 22,
+        "turma": "8ºA",
+        "chc": 7.3,
+        "mat": 5.8,
+        "lp": 6.8,
+        "red": 7.6
+      },
+      {
+        "id": 23,
+        "turma": "8ºA",
+        "chc": 6.7,
+        "mat": 9,
+        "lp": 7.7,
+        "red": 9.4
+      },
+      {
+        "id": 24,
+        "turma": "8ºA",
+        "chc": 7.2,
+        "mat": 6.6,
+        "lp": 7.5,
+        "red": 8
+      },
+      {
+        "id": 25,
+        "turma": "8ºA",
+        "chc": 8.1,
+        "mat": 6.7,
+        "lp": 7.3,
+        "red": 7.4
+      },
+      {
+        "id": 26,
+        "turma": "8ºA",
+        "chc": 6.2,
+        "mat": 6.8,
+        "lp": 5.8,
+        "red": 6
+      },
+      {
+        "id": 1,
+        "turma": "8ºB",
+        "chc": 7,
+        "mat": 6.6,
+        "lp": 6.7,
+        "red": 7
+      },
+      {
+        "id": 2,
+        "turma": "8ºB",
+        "chc": 6,
+        "mat": 4.8,
+        "lp": 5.5,
+        "red": 6.3
+      },
+      {
+        "id": 3,
+        "turma": "8ºB",
+        "chc": 6,
+        "mat": 5.8,
+        "lp": 6.1,
+        "red": 6.9
+      },
+      {
+        "id": 4,
+        "turma": "8ºB",
+        "chc": 6.7,
+        "mat": 4.6,
+        "lp": 6.2,
+        "red": 5.6
+      },
+      {
+        "id": 5,
+        "turma": "8ºB",
+        "chc": 6.5,
+        "mat": 6.2,
+        "lp": 6.5,
+        "red": 6
+      },
+      {
+        "id": 6,
+        "turma": "8ºB",
+        "chc": 6.5,
+        "mat": 8,
+        "lp": 7.2,
+        "red": 7.7
+      },
+      {
+        "id": 7,
+        "turma": "8ºB",
+        "chc": 7.2,
+        "mat": 9,
+        "lp": 9.4,
+        "red": 9.2
+      },
+      {
+        "id": 8,
+        "turma": "8ºB",
+        "chc": 6.5,
+        "mat": 6,
+        "lp": 6.2,
+        "red": 7.4
+      },
+      {
+        "id": 9,
+        "turma": "8ºB",
+        "chc": 7.5,
+        "mat": 6.7,
+        "lp": 7,
+        "red": 8.6
+      },
+      {
+        "id": 10,
+        "turma": "8ºB",
+        "chc": 6.5,
+        "mat": 6.8,
+        "lp": 6.6,
+        "red": 6.8
+      },
+      {
+        "id": 11,
+        "turma": "8ºB",
+        "chc": 7,
+        "mat": 3.5,
+        "lp": 6.4,
+        "red": 7.7
+      },
+      {
+        "id": 12,
+        "turma": "8ºB",
+        "chc": 7.5,
+        "mat": 7.6,
+        "lp": 7.3,
+        "red": 6.8
+      },
+      {
+        "id": 13,
+        "turma": "8ºB",
+        "chc": 6,
+        "mat": 4.6,
+        "lp": 6.2,
+        "red": 8.2
+      },
+      {
+        "id": 14,
+        "turma": "8ºB",
+        "chc": 7,
+        "mat": 7.1,
+        "lp": 5.1,
+        "red": 5.5
+      },
+      {
+        "id": 15,
+        "turma": "8ºB",
+        "chc": 8.6,
+        "mat": 7.4,
+        "lp": 7.1,
+        "red": 7.3
+      },
+      {
+        "id": 16,
+        "turma": "8ºB",
+        "chc": 7.3,
+        "mat": 6.3,
+        "lp": 6.2,
+        "red": 7.5
+      },
+      {
+        "id": 17,
+        "turma": "8ºB",
+        "chc": 7.1,
+        "mat": 7.2,
+        "lp": 7.1,
+        "red": 9.3
+      },
+      {
+        "id": 18,
+        "turma": "8ºB",
+        "chc": 6.6,
+        "mat": 7.6,
+        "lp": 7,
+        "red": 6.5
+      },
+      {
+        "id": 19,
+        "turma": "8ºB",
+        "chc": 6,
+        "mat": 8,
+        "lp": 7.8,
+        "red": 9.3
+      },
+      {
+        "id": 20,
+        "turma": "8ºB",
+        "chc": 6.5,
+        "mat": 8.2,
+        "lp": 7.3,
+        "red": 8.4
+      },
+      {
+        "id": 21,
+        "turma": "8ºB",
+        "chc": 7.1,
+        "mat": 7.6,
+        "lp": 7.4,
+        "red": 7
+      },
+      {
+        "id": 22,
+        "turma": "8ºB",
+        "chc": 6.7,
+        "mat": 5.7,
+        "lp": 6.8,
+        "red": 6.9
+      },
+      {
+        "id": 23,
+        "turma": "8ºB",
+        "chc": 6,
+        "mat": 4.5,
+        "lp": 5.5,
+        "red": 7.1
+      },
+      {
+        "id": 24,
+        "turma": "8ºB",
+        "chc": 7.2,
+        "mat": 6.3,
+        "lp": 6.3,
+        "red": 7.8
+      }
+    ]
+  },
+  "stats": {
+    "6ANO": {
+      "totalStudents": 83,
+      "chcAvg": 7.01,
+      "matAvg": 7.85,
+      "lpAvg": 6.82,
+      "redAvg": 7.07,
+      "correlation": 0.2868,
+      "chcHigherCount": 19,
+      "matHigherCount": 64,
+      "equalCount": 0,
+      "bothCount": 83
+    },
+    "7ANO": {
+      "totalStudents": 62,
+      "chcAvg": 7.03,
+      "matAvg": 7.8,
+      "lpAvg": 7.48,
+      "redAvg": 7.22,
+      "correlation": 0.4349,
+      "chcHigherCount": 13,
+      "matHigherCount": 45,
+      "equalCount": 4,
+      "bothCount": 62
+    },
+    "8ANO": {
+      "totalStudents": 50,
+      "chcAvg": 6.97,
+      "matAvg": 6.76,
+      "lpAvg": 6.81,
+      "redAvg": 7.4,
+      "correlation": 0.2601,
+      "chcHigherCount": 29,
+      "matHigherCount": 21,
+      "equalCount": 0,
+      "bothCount": 50
+    }
+  },
+  "simulados": {
+    "LP": {
+      "6ANO": {
+        "FTD1": [
+          {
+            "bncc": "EF06LP04",
+            "desc": "Analisar a função e as flexões de substantivos e adjetivos e de verbos nos modos Indicativo, Subjuntivo e Imperativo: afirmativo e negativo.",
+            "acertoGeral": 0.41,
+            "acertoEscola": 0.5,
+            "comparativo": 0.09,
+            "plano": "Produção de textos e exercícios  que exijam uso variado de tempos e modos verbais.",
+            "justificativa": "A taxa de acerto nesta habilidade é média, pois o modo subjuntivo e a forma negativa do Imperativo ainda não tinham sido trabalhados."
+          },
+          {
+            "bncc": "EF67LP05",
+            "desc": "Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância.",
+            "acertoGeral": 0.462,
+            "acertoEscola": 0.523,
+            "comparativo": 0.061,
+            "plano": "Produção de textos que expressam posicionamento crítico.",
+            "justificativa": "Os alunos apresentam apenas opiniões sem justificativa ou apoio em dados/texto."
+          },
+          {
+            "bncc": "EF67LP08",
+            "desc": "Identificar os efeitos de sentido devidos à escolha de imagens estáticas, sequenciação ou sobreposição de imagens, definição de figura/fundo, ângulo, profundidade e foco, cores/tonalidades, relação com o escrito (relações de reiteração, complementação ou oposição) etc. em notícias, reportagens, fotorreportagens, foto-denúncias, memes, gifs, anúncios publicitários e propagandas publicados em jornais, revistas, sites na internet etc.",
+            "acertoGeral": 0.651,
+            "acertoEscola": 0.8,
+            "comparativo": 0.149,
+            "plano": "Retomar as características do gênero.",
+            "justificativa": "O ótimo desempenho se deve ao fato de que os gêneros textuais são trabalhados desde o Fund I."
+          },
+          {
+            "bncc": "EF67LP32",
+            "desc": "Escrever palavras com correção ortográfica, obedecendo as convenções da língua escrita.",
+            "acertoGeral": 0.613,
+            "acertoEscola": 0.615,
+            "comparativo": 0.002,
+            "plano": "Oficinas de ortografia com foco em regras ortográficas.",
+            "justificativa": "A taxa de acerto é média-alta: erros são pontuais e muitas vezes relacionados a distração ou falta de revisão"
+          },
+          {
+            "bncc": "EF67LP38",
+            "desc": "Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.",
+            "acertoGeral": 0.587,
+            "acertoEscola": 0.754,
+            "comparativo": 0.167,
+            "plano": "Reforçar os exercícios que envolvem linuagem figurada.",
+            "justificativa": "Os alunos reconhecem as figuras em exemplos claros, mas algumas delas não foram estudadas no 6° ano."
+          },
+          {
+            "bncc": "EF69LP05",
+            "desc": "Inferir e justificar, em textos multissemióticos - tirinhas, charges, memes, gifs etc. -, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.",
+            "acertoGeral": 0.884,
+            "acertoEscola": 0.938,
+            "comparativo": 0.054,
+            "plano": "Retomar os diferentes gênereos textuais.",
+            "justificativa": "A taxa de acerto é alta, pois os alunos têm boa leitura de textos multimodais, mas ainda precisam melhorar na justificativa do sentido produzido."
+          },
+          {
+            "bncc": "EF69LP47",
+            "desc": "Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.",
+            "acertoGeral": 0.544,
+            "acertoEscola": 0.6,
+            "comparativo": 0.056,
+            "plano": "Reforçar, por meio de exercícios de sistematização e produção textual, os diferentes gênerosa textuais,",
+            "justificativa": "A compreensão dos elementos narrativos é satisfatória, mas, na leitura, ainda há dificuldade em reconhecer algumas características."
+          }
+        ],
+        "FTD2": [
+          {
+            "bncc": "EF67LP32",
+            "desc": "Escrever palavras com correção ortográfica, obedecendo as convenções da língua escrita.",
+            "acertoGeral": 0.664,
+            "acertoEscola": 0.855,
+            "comparativo": 0.191,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF67LP36",
+            "desc": "Utilizar, ao produzir texto, recursos de coesão referencial (léxica e pronominal) e sequencial e outros recursos expressivos adequados ao gênero textual.",
+            "acertoGeral": 0.579,
+            "acertoEscola": 0.855,
+            "comparativo": 0.276,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF06LP04",
+            "desc": "Analisar a função e as flexões de substantivos e adjetivos e de verbos nos modos Indicativo, Subjuntivo e Imperativo: afirmativo e negativo.",
+            "acertoGeral": 0.377,
+            "acertoEscola": 0.826,
+            "comparativo": 0.449,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF69LP48",
+            "desc": "Interpretar, em poemas, efeitos produzidos pelo uso de recursos expressivos sonoros (estrofação, rimas, aliterações etc), semânticos (figuras de linguagem, por exemplo), gráfico-espacial (distribuição da mancha gráfica no papel), imagens e sua relação com o texto verbal.",
+            "acertoGeral": 0.525,
+            "acertoEscola": 0.71,
+            "comparativo": 0.185,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF06LP05",
+            "desc": "Identificar os efeitos de sentido dos modos verbais, considerando o gênero textual e a intenção comunicativa.",
+            "acertoGeral": 0.288,
+            "acertoEscola": 0.58,
+            "comparativo": 0.292,
+            "plano": "Retomar exercícios de fixação que envolvem tempos e modos verbais",
+            "justificativa": "Ficamos acima da porcentagem de acerto geral, mas abaixo de 70% de acerto da nossa meta, pois o conteúdo previsto na rede conceitual está presente somente no 3° trimestre."
+          },
+          {
+            "bncc": "EF69LP04",
+            "desc": "Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.",
+            "acertoGeral": 0.471,
+            "acertoEscola": 0.449,
+            "comparativo": -0.022,
+            "plano": "Retomar exercícios de fixação que contemplem estratégias de persuasão e classe de palavras.",
+            "justificativa": "O aluno reconheceu o conteúdo, mas não foi capaz de identificar o distrator da questão."
+          },
+          {
+            "bncc": "EF69LP47",
+            "desc": "Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.",
+            "acertoGeral": 0.197,
+            "acertoEscola": 0.145,
+            "comparativo": -0.052,
+            "plano": "Aplicar exercícios de fixação sobre discurso direto e indireto.",
+            "justificativa": "O conteúdo dado aparece na rede conceitual do 3° trimestre."
+          }
+        ]
+      },
+      "7ANO": {
+        "FTD1": [
+          {
+            "bncc": "EF67LP32",
+            "desc": "Escrever palavras com correção ortográfica, obedecendo as convenções da língua escrita.",
+            "acertoGeral": 0.26,
+            "acertoEscola": 0.082,
+            "comparativo": -0.178,
+            "plano": "Sistematização nas aulas com reforço, revendo o conteúdo. Aplicar exercícios, jogos educativos, estimulando a aprendizagem.",
+            "justificativa": "Os alunos não aplicam as regras gramaticais de maneira adequada."
+          },
+          {
+            "bncc": "EF67LP33",
+            "desc": "Pontuar textos adequadamente.",
+            "acertoGeral": 0.432,
+            "acertoEscola": 0.377,
+            "comparativo": -0.055,
+            "plano": "Sistematização nas aulas com reforço, revendo o conteúdo. Aplicar exercícios, jogos educativos, estimulando a aprendizagem.",
+            "justificativa": "Ols alunos não pontuam adequadamente um texto."
+          },
+          {
+            "bncc": "EF69LP03",
+            "desc": "Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.",
+            "acertoGeral": 0.572,
+            "acertoEscola": 0.59,
+            "comparativo": 0.018,
+            "plano": "Ampliar o repertório jornalístico por meio da leitura e análise de diferentes veículos e formatos (texto escrito, audiovisual, digital).",
+            "justificativa": "O desempenho dos alunos está levemente acima da média geral, demonstrando que conseguem localizar e compreender o fato central e os elementos complementares de uma notícia. No entanto, ainda há espaço para avançar no aprofundamento da leitura crítica, especialmente na distinção entre fatos e opiniões e na análise da perspectiva de abordagem da notícia."
+          },
+          {
+            "bncc": "EF69LP45",
+            "desc": "Posicionar-se criticamente em relação a textos pertencentes a gêneros como quarta-capa, programa (de teatro, dança, exposição etc.), sinopse, resenha crítica, comentário em blog/vlog cultural etc., para selecionar obras literárias e outras manifestações artísticas (cinema, teatro, exposições, espetáculos, CD´s, DVD´s etc.), diferenciando as sequências descritivas e avaliativas e reconhecendo-os como gêneros que apoiam a escolha do livro ou produção cultural e consultando-os no momento de fazer escolhas, quando for o caso.",
+            "acertoGeral": 0.496,
+            "acertoEscola": 0.492,
+            "comparativo": -0.004,
+            "plano": "análise crítica com base em diferentes gêneros artísticos (filmes, peças de teatro, obras literárias, músicas e artes visuais).",
+            "justificativa": "O desempenho está alinhado à média geral, o que indica que os alunos conseguem compreender textos culturais e artísticos, mas ainda necessitam aprimorar a habilidade de análise crítica, articulando argumentos com base em repertório cultural e referências estéticas. O desafio está em desenvolver posicionamentos mais embasados e diversificados."
+          },
+          {
+            "bncc": "EF69LP47",
+            "desc": "Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.",
+            "acertoGeral": 0.434,
+            "acertoEscola": 0.516,
+            "comparativo": 0.082,
+            "plano": "Ampliar o contato com narrativas de diferentes gêneros e épocas (contos, romances, novelas, crônicas).",
+            "justificativa": "A escola apresenta desempenho bem acima da média geral, revelando que os alunos têm boa compreensão das estruturas narrativas e reconhecem elementos como tempo, espaço, personagens e vozes narrativas. No entanto, é importante reforçar essa habilidade para consolidar e aprofundar o entendimento, explorando também análises mais interpretativas e críticas."
+          }
+        ],
+        "FTD2": [
+          {
+            "bncc": "EF67LP29",
+            "desc": "Identificar, em texto dramático, personagem, ato, cena, fala e indicações cênicas e a organização do texto: enredo, conflitos, ideias principais, pontos de vista, universos de referência.",
+            "acertoGeral": 0.528,
+            "acertoEscola": 0.797,
+            "comparativo": 0.269,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF67LP33",
+            "desc": "Pontuar textos adequadamente.",
+            "acertoGeral": 0.714,
+            "acertoEscola": 0.729,
+            "comparativo": 0.015,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF69LP55",
+            "desc": "Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.",
+            "acertoGeral": 0.792,
+            "acertoEscola": 0.712,
+            "comparativo": -0.08,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF67LP38",
+            "desc": "Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.",
+            "acertoGeral": 0.502,
+            "acertoEscola": 0.602,
+            "comparativo": 0.1,
+            "plano": "O aluno deve interpretar o sentido conotativo nos textos e aplicar o conhecimento das figuras de linguagem com exercícios de fixação do conteúdo.",
+            "justificativa": "Os estudantes apresentaram\ndificuldade em reconhecer os \nefeitos de sentido produzidos\n pelas figuras de linguagem e\n compreender o sentido \n conotativo presente nos textos."
+          },
+          {
+            "bncc": "EF69LP45",
+            "desc": "Posicionar-se criticamente em relação a textos pertencentes a gêneros como quarta-capa, programa (de teatro, dança, exposição etc.), sinopse, resenha crítica, comentário em blog/vlog cultural etc., para selecionar obras literárias e outras manifestações artísticas (cinema, teatro, exposições, espetáculos, CD´s, DVD´s etc.), diferenciando as sequências descritivas e avaliativas e reconhecendo-os como gêneros que apoiam a escolha do livro ou produção cultural e consultando-os no momento de fazer escolhas, quando for o caso.",
+            "acertoGeral": 0.447,
+            "acertoEscola": 0.576,
+            "comparativo": 0.129,
+            "plano": "Problema com  interpretação de texto. Aplicar atividades com questões similares.",
+            "justificativa": "Os estudantes apresentaram\ndificuldade na interpretação\ndas informações explícitas\ne implícitas dos textos,\ncomprometendo a análise\ndas finalidades e\n características dos gêneros\napresentados."
+          },
+          {
+            "bncc": "EF67LP28",
+            "desc": "Ler, de forma autônoma, e compreender - selecionando procedimentos e estratégias de leitura adequados a diferentes objetivos e levando em conta características dos gêneros e suportes -, romances infantojuvenis, contos populares, contos de terror, lendas brasileiras, indígenas e africanas, narrativas de aventuras, narrativas de enigma, mitos, crônicas, autobiografias, histórias em quadrinhos, mangás, poemas de forma livre e fixa (como sonetos e cordéis), vídeo-poemas, poemas visuais, dentre outros, expressando avaliação sobre o texto lido e estabelecendo preferências por gêneros, temas, autores.",
+            "acertoGeral": 0.407,
+            "acertoEscola": 0.576,
+            "comparativo": 0.169,
+            "plano": "Problema com  interpretação de texto. Aplicar atividades com questões similares.",
+            "justificativa": "Observou-se dificuldade na compreensão e \ninterpretação de textos de diferentes gêneros,\nespecialmente na identificação de informações\nrelevantes e na análise crítica das leituras realizadas."
+          },
+          {
+            "bncc": "EF07LP05",
+            "desc": "Identificar, em orações de textos lidos ou de produção própria, verbos de predicação completa e incompleta: intransitivos e transitivos.",
+            "acertoGeral": 0.201,
+            "acertoEscola": 0.373,
+            "comparativo": 0.172,
+            "plano": "Retomar o estudo dos verbos transitivos e\nintransitivos com atividades práticas de\nidentificação da predicação verbal e da\nrelação entre verbo e complemento nas orações.",
+            "justificativa": "Os estudantes apresentaram dificuldade em\nidentificar verbos de predicação completa\ne incompleta, bem como em compreender\na relação entre verbo e complemento nas orações."
+          }
+        ]
+      },
+      "8ANO": {
+        "FTD1": [
+          {
+            "bncc": "EF08LP04",
+            "desc": "Utilizar, ao produzir texto, conhecimentos linguísticos e gramaticais: ortografia, regências e concordâncias nominal e verbal, modos e tempos verbais, pontuação etc.",
+            "acertoGeral": 0.277,
+            "acertoEscola": 0.045,
+            "comparativo": -0.232,
+            "plano": "Sistematização nas aulas com reforço, revendo o conteúdo.Trabalhar reescrita de textos com foco em autocorreção e revisão colaborativa.\n\nCriar murais de “erros comuns” com explicações e exemplos corretos.\n\nUtilizar atividades gamificadas (quiz, caça-palavras, bingo gramatical) para fixação de regras.",
+            "justificativa": "Os alunos não aplicam as regras gramaticais de maneira adequada. O desempenho muito inferior à média indica dificuldade expressiva na aplicação prática de conhecimentos gramaticais (ortografia, concordância, tempos verbais, pontuação) na produção textual. Isso sugere lacunas na sistematização desses conteúdos e na prática de escrita orientada. Regência e concordânia - conteúdo a ser trabalhado no 9 ano."
+          },
+          {
+            "bncc": "EF08LP07",
+            "desc": "Diferenciar, em textos lidos ou de produção própria, complementos diretos e indiretos de verbos transitivos, apropriando-se da regência de verbos de uso frequente.",
+            "acertoGeral": 0.455,
+            "acertoEscola": 0.545,
+            "comparativo": 0.09,
+            "plano": "Propor exercícios práticos de análise sintática.",
+            "justificativa": "A escola apresenta desempenho superior à média, indicando que os alunos conseguem identificar complementos verbais e aplicar regras básicas de regência. Contudo, é necessário consolidar o conhecimento e aprofundar casos mais complexos."
+          },
+          {
+            "bncc": "EF08LP10",
+            "desc": "Interpretar, em textos lidos ou de produção própria, efeitos de sentido de modificadores do verbo (adjuntos adverbiais - advérbios e expressões adverbiais), usando-os para enriquecer seus próprios textos.",
+            "acertoGeral": 0.734,
+            "acertoEscola": 0.742,
+            "comparativo": 0.008,
+            "plano": "Trabalhar análise de efeitos de sentido em diferentes gêneros textuais.",
+            "justificativa": "O desempenho é satisfatório e está acima da média, revelando que os alunos compreendem a função e os efeitos de sentido dos modificadores do verbo. O foco deve ser aprofundar a análise interpretativa e estimular maior aplicação em produções próprias."
+          },
+          {
+            "bncc": "EF67LP03",
+            "desc": "Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias, analisando e avaliando a confiabilidade.",
+            "acertoGeral": 0.616,
+            "acertoEscola": 0.727,
+            "comparativo": 0.111,
+            "plano": "Comparar manchetes diferentes para o mesmo acontecimento e discutir intenções de linguagem.",
+            "justificativa": "A habilidade está bem desenvolvida, com destaque para a análise comparativa e avaliação da confiabilidade das fontes."
+          },
+          {
+            "bncc": "EF67LP28",
+            "desc": "Ler, de forma autônoma, e compreender - selecionando procedimentos e estratégias de leitura adequados a diferentes objetivos e levando em conta características dos gêneros e suportes -, romances infantojuvenis, contos populares, contos de terror, lendas brasileiras, indígenas e africanas, narrativas de aventuras, narrativas de enigma, mitos, crônicas, autobiografias, histórias em quadrinhos, mangás, poemas de forma livre e fixa (como sonetos e cordéis), vídeo-poemas, poemas visuais, dentre outros, expressando avaliação sobre o texto lido e estabelecendo preferências por gêneros, temas, autores.",
+            "acertoGeral": 0.642,
+            "acertoEscola": 0.758,
+            "comparativo": 0.116,
+            "plano": "Incentivar a escrita de textos que imitem estilos de diferentes autores e gêneros.",
+            "justificativa": "escola apresenta ótimo desempenho, mostrando que os alunos têm boa competência leitora em diferentes gêneros narrativos. O desafio é ampliar ainda mais o repertório e incentivar interpretações mais profundas e autorais."
+          },
+          {
+            "bncc": "EF69LP02",
+            "desc": "Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção) de textos pertencentes a esses gêneros.",
+            "acertoGeral": 0.705,
+            "acertoEscola": 0.833,
+            "comparativo": 0.128,
+            "plano": "Explorar adaptações de textos narrativos para cinema, teatro ou quadrinhos, comparando versões.",
+            "justificativa": "A escola apresenta ótimo desempenho, mostrando que os alunos têm boa competência leitora em diferentes gêneros narrativos. O desafio é ampliar ainda mais o repertório e incentivar interpretações mais profundas e autorais."
+          },
+          {
+            "bncc": "EF69LP03",
+            "desc": "Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.",
+            "acertoGeral": 0.421,
+            "acertoEscola": 0.439,
+            "comparativo": 1.8,
+            "plano": "Intensificar o trabalho com gêneros jornalísticos e multissemióticos por meio da leitura e análise de notícias, reportagens, entrevistas, charges, memes e tirinhas. Desenvolver atividades de interpretação crítica com foco em ironia, humor, posicionamento e intencionalidade discursiva. Utilizar debates, rodas de conversa e produção de gêneros midiáticos para ampliar a compreensão dos alunos sobre os efeitos de sentido presentes nos textos.",
+            "justificativa": "Apesar de a escola apresentar desempenho ligeiramente superior à média geral, os alunos ainda demonstram dificuldade em identificar criticidade, ironia, humor e perspectivas de abordagem em textos jornalísticos e multissemióticos. Observa-se necessidade de ampliação das práticas de leitura crítica e interpretação inferencial, especialmente em gêneros que exigem análise de linguagem verbal e não verbal simultaneamente."
+          },
+          {
+            "bncc": "EF69LP08",
+            "desc": "Revisar/editar o texto produzido - notícia, reportagem, resenha, artigo de opinião, dentre outros -, tendo em vista sua adequação ao contexto de produção, a mídia em questão, características do gênero, aspectos relativos à textualidade, a relação entre as diferentes semioses, a formatação e uso adequado das ferramentas de edição (de texto, foto, áudio e vídeo, dependendo do caso) e adequação à norma culta.",
+            "acertoGeral": 0.707,
+            "acertoEscola": 0.803,
+            "comparativo": 0.096,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF69LP16",
+            "desc": "Analisar e utilizar as formas de composição dos gêneros jornalísticos da ordem do relatar, tais como notícias (pirâmide invertida no impresso X blocos noticiosos hipertextuais e hipermidiáticos no digital, que também pode contar com imagens de vários tipos, vídeos, gravações de áudio etc.), da ordem do argumentar, tais como artigos de opinião e editorial (contextualização, defesa de tese/opinião e uso de argumentos) e das entrevistas: apresentação e contextualização do entrevistado e do tema, estrutura pergunta e resposta etc.",
+            "acertoGeral": 0.361,
+            "acertoEscola": 0.394,
+            "comparativo": 0.033,
+            "plano": "RED",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF89LP04",
+            "desc": "Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.",
+            "acertoGeral": 0.578,
+            "acertoEscola": 0.394,
+            "comparativo": -0.184,
+            "plano": "RED",
+            "justificativa": ""
+          }
+        ],
+        "FTD2": [
+          {
+            "bncc": "EF08LP11",
+            "desc": "Identificar, em textos lidos ou de produção própria, agrupamento de orações em períodos, diferenciando coordenação de subordinação.",
+            "acertoGeral": 0.664,
+            "acertoEscola": 0.873,
+            "comparativo": 0.209,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF08LP06",
+            "desc": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+            "acertoGeral": 0.667,
+            "acertoEscola": 0.81,
+            "comparativo": 0.143,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF69LP04",
+            "desc": "Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.",
+            "acertoGeral": 0.674,
+            "acertoEscola": 0.667,
+            "comparativo": -0.007,
+            "plano": "Retomar análise de textos publicitários, \nidentificando estratégias persuasivas, \nlinguagem verbal e não verbal e \nrecursos visuais.",
+            "justificativa": "Os estudantes apresentaram dificuldade em interpretar os efeitos de sentido dos recursos linguísticos e visuais em textos multimodais."
+          },
+          {
+            "bncc": "EF89LP03",
+            "desc": "Analisar textos de opinião (artigos de opinião, editoriais, cartas de leitores, comentários, posts de blog e de redes sociais, charges, memes, gifs etc.) e posicionar-se de forma crítica e fundamentada, ética e respeitosa frente a fatos e opiniões relacionados a esses textos.",
+            "acertoGeral": 0.399,
+            "acertoEscola": 0.643,
+            "comparativo": 24.4,
+            "plano": "Retomar a leitura e análise        RED\n de textos de opinião, \nidentificando tese, \nargumentos e\n posicionamentos críticos.",
+            "justificativa": "Os estudantes apresentaram \ndificuldade em identificar opiniões,\n argumentos e posicionamentos\n presentes nos textos."
+          },
+          {
+            "bncc": "EF08LP08",
+            "desc": "Identificar, em textos lidos ou de produção própria, verbos na voz ativa e na voz passiva, interpretando os efeitos de sentido de sujeito ativo e passivo (agente da passiva).",
+            "acertoGeral": 0.469,
+            "acertoEscola": 0.619,
+            "comparativo": 0.15,
+            "plano": "conteúdo a ser trabalho no 2 trimestre/2026",
+            "justificativa": "conteúdo a ser trabalho no 2 trimestre/2026"
+          },
+          {
+            "bncc": "EF67LP38",
+            "desc": "Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.",
+            "acertoGeral": 0.306,
+            "acertoEscola": 0.603,
+            "comparativo": 0.297,
+            "plano": "Manter e ampliar o trabalho com leitura interpretativa e análise de textos literários, poemas, músicas, campanhas publicitárias, memes e tirinhas que explorem figuras de linguagem. Desenvolver atividades práticas de identificação, interpretação e produção de efeitos de sentido em diferentes contextos discursivos. Utilizar metodologias ativas, jogos pedagógicos e produções criativas para favorecer a compreensão dos recursos expressivos da linguagem.",
+            "justificativa": "O desempenho significativamente superior à média geral demonstra que os alunos apresentam boa compreensão dos efeitos de sentido produzidos pelas figuras de linguagem. O resultado positivo está relacionado ao trabalho contínuo com textos diversificados e práticas interpretativas contextualizadas, que favorecem a leitura crítica, a ampliação do repertório linguístico e a percepção da intencionalidade discursiva presente nos diferentes gêneros textuais. Intensificaremos o trabalho."
+          },
+          {
+            "bncc": "EF69LP05",
+            "desc": "Inferir e justificar, em textos multissemióticos - tirinhas, charges, memes, gifs etc. -, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.",
+            "acertoGeral": 0.436,
+            "acertoEscola": 0.603,
+            "comparativo": 0.167,
+            "plano": "Trabalhar análise detalhada de charges e tirinhas, destacando pistas visuais e textuais que produzem humor ou ironia. Revisar ortografia nas aulas de LP e RED.",
+            "justificativa": "A questão é simples, contudo, acredita-se em uma leitura desatenta da imagem e da diferença no emprego da grafia das palvras \"MAU\" e \"MAL\"."
+          },
+          {
+            "bncc": "EF89LP04 RED",
+            "desc": "Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.",
+            "acertoGeral": 0.235,
+            "acertoEscola": 0.365,
+            "comparativo": null,
+            "plano": "Incentivar o aluno a saber argumentar com eficiência, diferenciar gêneros textuais e identificar, nos textos argumentativos, a tese e os argumentos.",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF08LP09",
+            "desc": "Interpretar efeitos de sentido de modificadores (adjuntos adnominais - artigos definido ou indefinido, adjetivos, expressões adjetivas) em substantivos com função de sujeito ou de complemento verbal, usando-os para enriquecer seus próprios textos.",
+            "acertoGeral": 0.147,
+            "acertoEscola": 0.27,
+            "comparativo": 0.123,
+            "plano": "Intensificar atividades de análise linguística contextualizada, explorando o efeito de sentido provocado por artigos, adjetivos e expressões adjetivas em diferentes gêneros textuais. Desenvolver propostas de reescrita e ampliação textual, incentivando os alunos a enriquecerem suas produções por meio do uso consciente de modificadores. Utilizar exercícios comparativos, leitura guiada e práticas gamificadas para favorecer a compreensão do papel semântico dos adjuntos adnominais.",
+            "justificativa": "Embora o desempenho da escola esteja acima da média geral, os alunos ainda apresentam dificuldades em compreender plenamente os efeitos de sentido produzidos pelos modificadores nas construções textuais. Observa-se que muitos conseguem identificar os elementos gramaticais, mas encontram desafios na interpretação de suas funções expressivas e na aplicação desses recursos em produções próprias, indicando a necessidade de maior aprofundamento em práticas de análise e produção textual contextualizadas."
+          }
+        ]
+      }
+    },
+    "MAT": {
+      "6ANO": {
+        "FTD1": [
+          {
+            "bncc": "EF06MA02",
+            "desc": "Reconhecer o sistema de numeração decimal, como o que prevaleceu no mundo ocidental, e destacar semelhanças e diferenças com outros sistemas, de modo a sistematizar suas principais características (base, valor posicional e função do zero), utilizando, inclusive, a composição e decomposição de números naturais e números racionais em sua representação decimal.",
+            "acertoGeral": 0.546,
+            "acertoEscola": 0.462,
+            "comparativo": -0.084,
+            "plano": "Retomar com maior ênfase e aprofundar.",
+            "justificativa": "Não foi dado ênfase em números muito altos, pois o material foca nos valores mais básicos e usuais. Isto é trabalhado no 5º Ano, sendo apenas recordado no 6º Ano."
+          },
+          {
+            "bncc": "EF06MA03",
+            "desc": "Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com e sem uso de calculadora.",
+            "acertoGeral": 0.352,
+            "acertoEscola": 0.323,
+            "comparativo": -0.029,
+            "plano": "Trazer questões mais aprofundadas para complementar o material adotado.",
+            "justificativa": "Nesta habilidade foram trabalhadas duas questões. A primeira questão envolve  combinação que foi trabalhado no primeiro trimestre, com menos opções numéricas. A segunda envolvia o conteúdo de proporção e área, também foi desenvolvido no material adotado, mas com um nível de complexidade menor."
+          },
+          {
+            "bncc": "EF06MA10",
+            "desc": "Resolver e elaborar problemas que envolvam adição ou subtração com números racionais positivos na representação fracionária.",
+            "acertoGeral": 0.221,
+            "acertoEscola": 0.077,
+            "comparativo": -0.144,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Vai ser trabalhado no terceiro trimestre."
+          },
+          {
+            "bncc": "EF06MA11",
+            "desc": "Resolver e elaborar problemas com números racionais positivos na representação decimal, envolvendo as quatro operações fundamentais e a potenciação, por meio de estratégias diversas, utilizando estimativas e arredondamentos para verificar a razoabilidade de respostas, com e sem uso de calculadora.",
+            "acertoGeral": 0.396,
+            "acertoEscola": 0.423,
+            "comparativo": 0.027,
+            "plano": "Manter, o desenvolvimento, pois este conteúdo de proporção não é trabalhado no 6º Ano",
+            "justificativa": "Nesta habilidade foram trabalhadas duas questões. A primeira de análise de tabela com subtração de decimais tiveram um bom desempenho. A segunda exigia a ideia de proporção, que é trabalhada apenas no sétimo ano."
+          },
+          {
+            "bncc": "EF06MA12",
+            "desc": "Fazer estimativas de quantidades e aproximar números para múltiplos da potência de 10 mais próxima.",
+            "acertoGeral": 0.708,
+            "acertoEscola": 0.831,
+            "comparativo": 0.123,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Foi bem trabalhado no primeiro trimestre."
+          },
+          {
+            "bncc": "EF06MA24",
+            "desc": "Resolver e elaborar problemas que envolvam as grandezas comprimento, massa, tempo, temperatura, área (triângulos e retângulos), capacidade e volume (sólidos formados por blocos retangulares), sem uso de fórmulas, inseridos, sempre que possível, em contextos oriundos de situações reais e/ou relacionadas às outras áreas do conhecimento.",
+            "acertoGeral": 0.318,
+            "acertoEscola": 0.338,
+            "comparativo": 0.02,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Foi trabalhado no quinto ano, e vai ser retomado no terceiro trimestre."
+          }
+        ],
+        "FTD2": [
+          {
+            "bncc": "EF06MA03",
+            "desc": "Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com e sem uso de calculadora.",
+            "acertoGeral": 0.718,
+            "acertoEscola": 0.841,
+            "comparativo": 0.123,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF06MA11",
+            "desc": "Resolver e elaborar problemas com números racionais positivos na representação decimal, envolvendo as quatro operações fundamentais e a potenciação, por meio de estratégias diversas, utilizando estimativas e arredondamentos para verificar a razoabilidade de respostas, com e sem uso de calculadora.",
+            "acertoGeral": 0.593,
+            "acertoEscola": 0.739,
+            "comparativo": 0.146,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF06MA06",
+            "desc": "Resolver e elaborar problemas que envolvam as ideias de múltiplo e de divisor.",
+            "acertoGeral": 0.379,
+            "acertoEscola": 0.652,
+            "comparativo": 0.273,
+            "plano": "Foi trabalhado no início do 7º ano.",
+            "justificativa": "Múltiplos e divisores - é trabalhado no 6º ano, com continuidade no 7º ano."
+          },
+          {
+            "bncc": "EF06MA09",
+            "desc": "Resolver e elaborar problemas que envolvam o cálculo da fração de uma quantidade e cujo resultado seja um número natural, com e sem uso de calculadora.",
+            "acertoGeral": 0.321,
+            "acertoEscola": 0.507,
+            "comparativo": 0.186,
+            "plano": "Retomada em todos os anos: aplicação de frações.",
+            "justificativa": "O conceito de fração gera dificuldades."
+          },
+          {
+            "bncc": "EF06MA14",
+            "desc": "Reconhecer que a relação de igualdade matemática não se altera ao adicionar, subtrair, multiplicar ou dividir os seus dois membros por um mesmo número e utilizar essa noção para determinar valores desconhecidos na resolução de problemas.",
+            "acertoGeral": 0.241,
+            "acertoEscola": 0.348,
+            "comparativo": 0.107,
+            "plano": "Será trabalhado no 7º ano.",
+            "justificativa": "No 6º ano entra conceitos básicos, sem aplicação."
+          },
+          {
+            "bncc": "EF06MA24",
+            "desc": "Resolver e elaborar problemas que envolvam as grandezas comprimento, massa, tempo, temperatura, área (triângulos e retângulos), capacidade e volume (sólidos formados por blocos retangulares), sem uso de fórmulas, inseridos, sempre que possível, em contextos oriundos de situações reais e/ou relacionadas às outras áreas do conhecimento.",
+            "acertoGeral": 0.187,
+            "acertoEscola": 0.159,
+            "comparativo": -0.028,
+            "plano": "Será trabalhado no 7º ano. A partir de 2026 será trabalhado a partir do 6º ano.",
+            "justificativa": "Na aplicação do simulado, os alunos não haviam aprendido o conceito de volume (trabalharam em novembro) e a relação entre volume e capacidade é trabalhada no 7º ano."
+          },
+          {
+            "bncc": "EF06MA13",
+            "desc": "Resolver e elaborar problemas que envolvam porcentagens, com base na ideia de proporcionalidade, sem fazer uso da ?regra de três?, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros.",
+            "acertoGeral": 0.162,
+            "acertoEscola": 0.072,
+            "comparativo": -0.09,
+            "plano": "O cálculo de porcentagem é trabalhado no 6º ano. O formato deste exercício será trabalhado no 7º ano",
+            "justificativa": "O material não contempla no 6º ano. Como existe uma crescente no trabalho com porcentagem, este nível é trabalhado no 7º ano."
+          }
+        ]
+      },
+      "7ANO": {
+        "FTD1": [
+          {
+            "bncc": "EF07MA01",
+            "desc": "Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos.",
+            "acertoGeral": 0.39,
+            "acertoEscola": 0.437,
+            "comparativo": 0.047,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Nesta habilidade foram trabalhadas três questões. A primeira questão, teve um bom desempenho, envolve expressão numérica que foi trabalhado no sexto ano, envolve noções de matemática básica que são sempre desenvolvidas. A segunda envolvia o conteúdo mdc e mmc, também foi desenvolvido no material adotado no primeiro trimestre, mas com um nível de complexidade menor. A terceira questão, com pior desempenho, mostra uma possível falta de atenção, por não observar unidades de medida diferentes, pois foram trabalhados em sala de aula exercícios semelhantes."
+          },
+          {
+            "bncc": "EF07MA03",
+            "desc": "Comparar e ordenar números inteiros em diferentes contextos, incluindo o histórico, associá-los a pontos da reta numérica e utilizá-los em situações que envolvam adição e subtração.",
+            "acertoGeral": 0.642,
+            "acertoEscola": 0.754,
+            "comparativo": 0.112,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Foi bem trabalhado, o que justifica o índice de acertos."
+          },
+          {
+            "bncc": "EF07MA04",
+            "desc": "Resolver e elaborar problemas que envolvam operações com números inteiros.",
+            "acertoGeral": 0.43,
+            "acertoEscola": 0.541,
+            "comparativo": 0.111,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Nesta habilidade foram trabalhadas duas questões. A primeira questão, teve um bom desempenho, envolve operações com números inteiros que foi bem trabalhado com exercícios parecidos. A segunda envolvia o conteúdo operações com decimais, também foi desenvolvido no material adotado com questões parecidas, exigindo atenção dos alunos o que justifica o índice intermediário."
+          },
+          {
+            "bncc": "EF07MA11",
+            "desc": "Compreender e utilizar a multiplicação e a divisão de números racionais, a relação entre elas e suas propriedades operatórias.",
+            "acertoGeral": 0.274,
+            "acertoEscola": 0.18,
+            "comparativo": -0.094,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolve cálculo de porcentagem, trabalhado desde o sexto ano com a mesma complexidade e será retomado no terceiro trimestre."
+          },
+          {
+            "bncc": "EF07MA12",
+            "desc": "Resolver e elaborar problemas que envolvam as operações com números racionais.",
+            "acertoGeral": 0.418,
+            "acertoEscola": 0.344,
+            "comparativo": -0.074,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolve cálculo de porcentagem, trabalhado desde o sexto ano com a mesma complexidade e será retomado no terceiro trimestre."
+          }
+        ],
+        "FTD2": [
+          {
+            "bncc": "EF07MA04",
+            "desc": "Resolver e elaborar problemas que envolvam operações com números inteiros.",
+            "acertoGeral": 0.769,
+            "acertoEscola": 0.915,
+            "comparativo": 0.146,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF07MA01",
+            "desc": "Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos.",
+            "acertoGeral": 0.48,
+            "acertoEscola": 0.492,
+            "comparativo": 0.012,
+            "plano": "O conceito de números primos já foi retomado no 8º ano, pois trabalharam fatoração.",
+            "justificativa": "A identificação de números primos foi trabalhado no 6º ano, acredito que ficou falhas. Mas é trabalhado nos anos seguintes. Pode ser retomado com maior empenho."
+          },
+          {
+            "bncc": "EF07MA18",
+            "desc": "Resolver e elaborar problemas que possam ser representados por equações polinomiais de 1º grau, redutíveis à forma ax + b = c, fazendo uso das propriedades da igualdade.",
+            "acertoGeral": 0.383,
+            "acertoEscola": 0.441,
+            "comparativo": 0.058,
+            "plano": "O cálculo de porcentagem poderia ser resolvido por regra de três, já trabalhado no momento.",
+            "justificativa": "Analisamos como inadequada para a habilidade citada (equação). O aluno percorre um caminho de pensamento, como regra de três, no cálculo de porcentagem. Eles viram no mês de novembro (após a aplicação do simulado)."
+          },
+          {
+            "bncc": "EF07MA29",
+            "desc": "Resolver e elaborar problemas que envolvam medidas de grandezas inseridos em contextos oriundos de situações cotidianas ou de outras áreas do conhecimento, reconhecendo que toda medida empírica é aproximada.",
+            "acertoGeral": 0.363,
+            "acertoEscola": 0.339,
+            "comparativo": -0.024,
+            "plano": "Precisa ser trabalhado no 8º ano.",
+            "justificativa": "Não foi trabalhado no 7º ano, por falta de tempo e desenvolvimento da turma."
+          },
+          {
+            "bncc": "EF07MA10",
+            "desc": "Comparar e ordenar números racionais em diferentes contextos e associá-los a pontos da reta numérica.",
+            "acertoGeral": 0.272,
+            "acertoEscola": 0.288,
+            "comparativo": 0.016,
+            "plano": "Precisa ser desenvolvido a habilidade de análise e comparação. Vamos indicar nas listas de aprofundamento.",
+            "justificativa": "O material não contempla e a turma não apresenta uma prontidão de resolver desafios. Acreditamos um descompromisso com a atividade."
+          },
+          {
+            "bncc": "EF07MA21",
+            "desc": "Reconhecer e construir figuras obtidas por simetrias de translação, rotação e reflexão, usando instrumentos de desenho ou softwares de geometria dinâmica e vincular esse estudo a representações planas de obras de arte, elementos arquitetônicos, entre outros.",
+            "acertoGeral": 0.322,
+            "acertoEscola": 0.237,
+            "comparativo": -0.085,
+            "plano": "A habilidade é trabalhada no final do 3º trimestre.",
+            "justificativa": "Não havia sido trabalhado. Foi trabalhado no final do ano."
+          },
+          {
+            "bncc": "EF07MA13",
+            "desc": "Compreender a ideia de variável, representada por letra ou símbolo, para expressar relação entre duas grandezas, diferenciando-a da ideia de incógnita.",
+            "acertoGeral": 0.113,
+            "acertoEscola": 0.085,
+            "comparativo": -0.028,
+            "plano": "Não corresponde a nossa habilidade de envolver equação com porcentagem. Pode ser trabalhado desta forma no 8º ano.",
+            "justificativa": "Não contempla no nosso material."
+          },
+          {
+            "bncc": "EF07MA33",
+            "desc": "Estabelecer o número - como a razão entre a medida de uma circunferência e seu diâmetro, para compreender e resolver problemas, inclusive os de natureza histórica.",
+            "acertoGeral": 0.237,
+            "acertoEscola": null,
+            "comparativo": -0.237,
+            "plano": "Foi trabalhado no início do 8º ano.",
+            "justificativa": "Não consta como habilidade de 7º ano."
+          }
+        ]
+      },
+      "8ANO": {
+        "FTD1": [
+          {
+            "bncc": "EF08MA01",
+            "desc": "Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.",
+            "acertoGeral": 0.398,
+            "acertoEscola": 0.5,
+            "comparativo": 0.102,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Nesta habilidade foram trabalhadas duas questões. A primeira questão, houve um desempenho mais baixo, envolve conversão de unidades com notação científica que foi trabalhado neste ano, envolve noções de matemática básica que são sempre desenvolvidas. A segunda envolvia o conteúdonotação científica, como a questão não envolvia conversão de unidade a porcentagem de acertos foi maior."
+          },
+          {
+            "bncc": "EF08MA02",
+            "desc": "Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.",
+            "acertoGeral": 0.34,
+            "acertoEscola": 0.303,
+            "comparativo": -0.037,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolvia o conteúdo de Volume e propriedades da raiz cúbica, foi desenvolvido no material adotado, mas com um nível de complexidade menor."
+          },
+          {
+            "bncc": "EF08MA05",
+            "desc": "Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.",
+            "acertoGeral": 0.383,
+            "acertoEscola": 0.379,
+            "comparativo": -0.004,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolvia o conteúdo de dízima periódica, foi desenvolvido no material adotado desde o sexto ano, mas com divisões que resultam em períodos menores."
+          },
+          {
+            "bncc": "EF08MA06",
+            "desc": "Resolver e elaborar problemas que envolvam cálculo do valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+            "acertoGeral": 0.28,
+            "acertoEscola": 0.348,
+            "comparativo": 0.068,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolvia o conteúdo de valor numérico de expressão algébrica, o conteúdo foi trabalhado após a aplicação deste simulado, com o mesmo grau de dificuldade."
+          },
+          {
+            "bncc": "EF08MA08",
+            "desc": "Resolver e elaborar problemas relacionados ao seu contexto próximo, que possam ser representados por sistemas de equações de 1º grau com duas incógnitas e interpretá-los, utilizando, inclusive, o plano cartesiano como recurso.",
+            "acertoGeral": 0.601,
+            "acertoEscola": 0.697,
+            "comparativo": 0.096,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolvia o conteúdo de expressão algébrica, o conteúdo começou a ser desenvolvido no sétimo ano e aprofundado no 8º Ano após a avaliação. Mesmo assim os alunos obtiveram um bom desempenho."
+          },
+          {
+            "bncc": "EF08MA15",
+            "desc": "Construir, utilizando instrumentos de desenho ou softwares de geometria dinâmica, mediatriz, bissetriz, ângulos de 90°, 60°, 45° e 30° e polígonos regulares.",
+            "acertoGeral": 0.516,
+            "acertoEscola": 0.596,
+            "comparativo": 0.08,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Nesta habilidade foram trabalhadas três questões. A primeira questão, teve desempenho mediano, envolve classificação de triângulos, envolve noções de matemática básica iniciadas no sexto ano e sétimo ano. A segunda envolvia a condição de existência de triângulos, trabalhada no sétimo ano, com contextualização diferente do livro adotado. A terceira questão, mostra uma possível falta de atenção, envolve classificação de triângulos, envolve noções de matemática básica iniciadas no sexto ano e sétimo ano."
+          },
+          {
+            "bncc": "EF08MA19",
+            "desc": "Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos.",
+            "acertoGeral": 0.279,
+            "acertoEscola": 0.5,
+            "comparativo": 0.221,
+            "plano": "Manter o planejamento.",
+            "justificativa": "Esta questão envolvia o conteúdo de expressão algébrica, o conteúdo foi trabalhado após a aplicação deste simulado, com o mesmo grau de dificuldade."
+          }
+        ],
+        "FTD2": [
+          {
+            "bncc": "EF08MA06",
+            "desc": "Resolver e elaborar problemas que envolvam cálculo do valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+            "acertoGeral": 0.591,
+            "acertoEscola": 0.714,
+            "comparativo": 0.123,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF08MA13",
+            "desc": "Resolver e elaborar problemas que envolvam grandezas diretamente ou inversamente proporcionais, por meio de estratégias variadas.",
+            "acertoGeral": 0.502,
+            "acertoEscola": 0.714,
+            "comparativo": 0.212,
+            "plano": "",
+            "justificativa": ""
+          },
+          {
+            "bncc": "EF08MA08",
+            "desc": "Resolver e elaborar problemas relacionados ao seu contexto próximo, que possam ser representados por sistemas de equações de 1º grau com duas incógnitas e interpretá-los, utilizando, inclusive, o plano cartesiano como recurso.",
+            "acertoGeral": 0.373,
+            "acertoEscola": 0.603,
+            "comparativo": 0.23,
+            "plano": "Melhorar o tipo de exercício que pode ser aplicado.",
+            "justificativa": "Não contempla no material."
+          },
+          {
+            "bncc": "EF08MA15",
+            "desc": "Construir, utilizando instrumentos de desenho ou softwares de geometria dinâmica, mediatriz, bissetriz, ângulos de 90°, 60°, 45° e 30° e polígonos regulares.",
+            "acertoGeral": 0.313,
+            "acertoEscola": 0.571,
+            "comparativo": 0.258,
+            "plano": "Retomada dos conceitos e aplicações no primeiro ano do ensino médio.",
+            "justificativa": "Foi trabalhado no 7º ano, mas não no formato das questões apresentadas."
+          },
+          {
+            "bncc": "EF08MA01",
+            "desc": "Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.",
+            "acertoGeral": 0.195,
+            "acertoEscola": 0.556,
+            "comparativo": 0.361,
+            "plano": "Trabalhar como lista de aprofundamento.",
+            "justificativa": "Não contempla no material."
+          },
+          {
+            "bncc": "EF08MA14",
+            "desc": "Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.",
+            "acertoGeral": 0.172,
+            "acertoEscola": 0.349,
+            "comparativo": 0.177,
+            "plano": "Trabalhar como lista de aprofundamento.",
+            "justificativa": "Não contempla no material."
+          },
+          {
+            "bncc": "EF08MA17",
+            "desc": "Aplicar os conceitos de mediatriz e bissetriz como lugares geométricos na resolução de problemas.",
+            "acertoGeral": 0.304,
+            "acertoEscola": 0.333,
+            "comparativo": 0.029,
+            "plano": "Trabalhar como lista de aprofundamento.",
+            "justificativa": "Não contempla no material."
+          },
+          {
+            "bncc": "EF08MA02",
+            "desc": "Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.",
+            "acertoGeral": 0.139,
+            "acertoEscola": 0.048,
+            "comparativo": -0.091,
+            "plano": "Trabalhar como desafio na lista de aprofundamento, indicando algo semelhante como base.",
+            "justificativa": "Faltou base conceitual. Não é trabalhado juros compostos no 8º ano."
+          }
+        ]
+      }
+    }
+  }
+}
